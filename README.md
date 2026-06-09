@@ -9,7 +9,7 @@
 
 I'm a hands-on IT specialist with a strong foundation in **system administration, Active Directory, and cybersecurity**. My approach is simple — I learn by building real lab environments, intentionally breaking things, and fixing them with documentation that explains every decision.
 
-I'm currently completing a **BSc in Information Technology** at Pioneer International University and actively growing into cybersecurity and cloud engineering.
+I'm completed my **BSc in Information Technology** at Pioneer International University and actively growing into cybersecurity and cloud engineering.
 
 I don't just follow instructions — I understand *why* systems are built a certain way, how they fail, and how to secure them properly.
 
