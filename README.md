@@ -98,12 +98,6 @@ Hands-on documentation of my entire sysadmin lab — Windows Server 2022, Active
 | Certification | Issuer |
 |---|---|
 | Digital Customer Service | Generation Kenya |
-| Digital Marketing | HubSpot |
-| Google Ads Certification | Google |
-| Facebook Blueprint | Meta |
-| LinkedIn Marketing Labs | LinkedIn |
-| Digital Ad Expert | Aleph |
-| Twitter Flight School | Twitter/X |
 
 ---
 
